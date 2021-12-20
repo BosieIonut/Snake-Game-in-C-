@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1511114946 source:c:\users\ionut\desktop\snake 2\main.cpp
+	<graphics.h>
+	<dos.h>
+	<conio.h>
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<string.h>
+
